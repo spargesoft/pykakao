@@ -15,8 +15,8 @@ setup(
         'pycrypto>=2.6.1',
         'rsa>=3.1.2',
     ],
-    author='h4lla',
-    author_email='hallazzang@gmail.com',
+    author='ltj0507',
+    author_email='ltj0507@naver.com',
     license='MIT',
-    url='https://github.com/HallaZzang/pykakao',
+    url='https://github.com/spargesoft/pykakao',
 )
